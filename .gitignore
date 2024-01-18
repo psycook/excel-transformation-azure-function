@@ -1,3 +1,6 @@
+# my test files with keys in
+*keys.http
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
